@@ -1,9 +1,7 @@
 REPL
 ====
 
-Operations:
-
-exit
+Operations:\n
 add [int] [int] -> [int]: Addition.
 sub [int] [int] -> [int]: Subtraction.
 mul [int] [int] -> [int]: Multiplication.
